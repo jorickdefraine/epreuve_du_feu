@@ -1,4 +1,3 @@
-#!/usr/bin/env Rscript
 argv <- commandArgs(trailingOnly=TRUE)
 etage <- as.numeric(argv[1])
 
